@@ -2,5 +2,5 @@
 # Program to output best school x10
 for i in {1..10}
 do 
-  echo "Best school"
+  echo "Best School"
 done
