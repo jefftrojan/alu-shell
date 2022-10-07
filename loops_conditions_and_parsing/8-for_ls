@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # list directory content
 
 for file in *; do 
