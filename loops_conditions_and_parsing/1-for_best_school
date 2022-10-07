@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 # Program to output best school x10
 for i in {1..10}
 do 
